@@ -1,8 +1,8 @@
 # Quiz-App Using FastAPI
 
 ## About The Project
-This project presents an interactive word guessing game using Python's console.
-Quiz App using FastAPI &amp; PostgreSQL
+This project presents an interactive Quiz App using FastAPI &amp; PostgreSQL.
+
 
 Feature:
 * Allows users to guess words
