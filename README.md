@@ -5,7 +5,7 @@ This project presents an interactive Quiz App using FastAPI &amp; PostgreSQL.
 
 
 Feature:
-* Allows users to guess words
+* Allows users to create a quiz question and answer
 * Provides feedback on correct or incorrect guesses
 
 ### Built With
