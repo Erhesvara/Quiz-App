@@ -10,7 +10,8 @@ Feature:
 
 ### Built With
 * Python 
-* Pycharm
+* FastAPI
+* PostgreSQL
  
 ## Getting Started
 
