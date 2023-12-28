@@ -32,4 +32,4 @@ Ensure the following prerequisites are met before getting started:
 4. Run python the Environment.
 
 ## Usage
-Once the Word-Counter.py script is executed, engage with its functions to participate in the word guessing game.
+.
