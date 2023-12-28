@@ -29,10 +29,7 @@ Ensure the following prerequisites are met before getting started:
    git clone https://github.com/Erhesvara/FastAPI---Playground.git 
    ```
 3. Navigate to the project directory.
-4. Run python Chatbot.py to start the chatbot.
-   ```sh
-   python Word-Counter.py
-   ```
+4. Run python the Environment.
 
 ## Usage
 Once the Word-Counter.py script is executed, engage with its functions to participate in the word guessing game.
