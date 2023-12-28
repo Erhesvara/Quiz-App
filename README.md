@@ -26,7 +26,7 @@ Ensure the following prerequisites are met before getting started:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Erhesvara/Word-Guessing-Game.git 
+   git clone https://github.com/Erhesvara/FastAPI---Playground.git 
    ```
 3. Navigate to the project directory.
 4. Run python Chatbot.py to start the chatbot.
