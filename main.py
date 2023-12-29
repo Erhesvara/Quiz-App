@@ -12,3 +12,4 @@ class QuestionBase(BaseModel):
     question_text: str
     choices: List[ChoiceBase]
 
+
