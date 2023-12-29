@@ -1,7 +1,7 @@
 # Quiz-App Using FastAPI
 
 ## About The Project
-This project presents an interactive Quiz App using FastAPI &amp; PostgreSQL.
+This project introduces an engaging Quiz App built with FastAPI and PostgreSQL, providing an interactive platform for users to create, answer, and receive feedback on quiz questions.
 
 
 Feature:
