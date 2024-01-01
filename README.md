@@ -21,6 +21,7 @@ Ensure the following prerequisites are met before getting started:
 * Python is installed on your system
 * An Integrated Development Environment (IDE) is set up
 * FastAPI & Uvicorn are installed
+* PostgreSQL - pgAdmin4
 
 
 ### Installation
