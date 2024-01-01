@@ -40,7 +40,9 @@ Ensure the following prerequisites are met before getting started:
    ```
    This command initializes the FastAPI server, making the Quiz App accessible through specified endpoints.
 3. Access the App
+   
    Open a web browser and navigate to http://localhost:8000 or the designated port where the FastAPI server is running.
+
 
 
 
