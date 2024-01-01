@@ -28,7 +28,7 @@ Ensure the following prerequisites are met before getting started:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Erhesvara/FastAPI---Playground.git 
+   git clone https://github.com/Erhesvara/Quiz-App.git
    ```
 3. Navigate to the project directory.
 
