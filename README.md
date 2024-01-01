@@ -31,7 +31,8 @@ Ensure the following prerequisites are met before getting started:
    git clone https://github.com/Erhesvara/FastAPI---Playground.git 
    ```
 3. Navigate to the project directory.
-4. Run python the Environment.
+4. Run uvicorn main:app --reload
+   INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
 
 ## Usage
 .
