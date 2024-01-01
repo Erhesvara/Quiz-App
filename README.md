@@ -34,10 +34,11 @@ Ensure the following prerequisites are met before getting started:
 
 ## Usage
 1. Launch the App
-
-Run the FastAPI server by executing the following command in the terminal:
+2. Run the FastAPI server by executing the following command in the terminal:
 
 sh
 Copy code
 uvicorn main:app --reload
 This command initializes the FastAPI server, making the Quiz App accessible through specified endpoints.
+
+
