@@ -3,7 +3,6 @@
 ## About The Project
 This project introduces an engaging Quiz App built with FastAPI and PostgreSQL, providing an interactive platform for users to create, answer, and receive feedback on quiz questions.
 
-
 Feature:
 * Creation of quiz questions and answers
 * Immediate feedback on correct or incorrect answers
